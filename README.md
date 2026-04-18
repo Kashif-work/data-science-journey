@@ -1,2 +1,8 @@
-# data-science-journey
-My complete Data Science learning journey with 30 real-world projects
+# Data Science Journey 🚀
+
+## Goals
+- Learn Data Science
+- Build projects
+
+## Projects
+1. GitHub Setup (In Progress)
