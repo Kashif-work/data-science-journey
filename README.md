@@ -1,20 +1,29 @@
 # Data Science Journey 🚀
 
-This repository contains my complete journey to becoming a job-ready Data Scientist.
+Hi, I'm Kashif — an aspiring Data Scientist building 30 real-world projects to become job-ready.
 
-## Goals
-- Master Data Science from basics to advanced
-- Build 30 real-world projects
-- Become job-ready
+## 🎯 Objective
+To develop strong data science and machine learning skills through hands-on, real-world projects and build a professional portfolio.
 
-## Projects
-1. GitHub & Setup (In Progress)
-
-## Tools & Skills
+## 🧠 Skills (In Progress)
 - Python
 - Pandas
 - SQL
-- Machine Learning (upcoming)
+- Data Visualization
+- Machine Learning
 
-## Progress
-Started: [18 April 2026]
+## 📂 Projects
+
+### 1. GitHub & Professional Setup ✅
+- Created structured GitHub repository
+- Learned repository organization
+- Wrote professional README
+
+_(More projects coming soon...)_
+
+## 📈 Progress Timeline
+- Start Date: April 18, 2026
+- Current Phase: Foundations
+
+## 📬 Contact
+- GitHub: https://github.com/Kashif-work
