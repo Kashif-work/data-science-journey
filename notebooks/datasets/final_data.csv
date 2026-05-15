@@ -1,0 +1,6 @@
+Name,Age,Salary,Salary_Category,Age_Group,Profile,Cluster
+Ali,25,50000,Low,Mid,Mid_Low,0
+Sara,27,60000,Medium,Mid,Mid_Medium,0
+John,22,58400,Medium,Young,Young_Medium,0
+Ayesha,28,52000,Low,Mid,Mid_Low,0
+David,35,80000,High,Senior,Senior_High,1
