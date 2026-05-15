@@ -27,3 +27,11 @@ _(More projects coming soon...)_
 
 ## 📬 Contact
 - GitHub: https://github.com/Kashif-work
+
+  ## 📁 Repository Structure
+- data/ → datasets  
+- notebooks/ → Jupyter notebooks  
+- src/ → scripts (future use)  
+- outputs/ → results and visualizations  
+
+
